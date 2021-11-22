@@ -1,0 +1,10 @@
+body {
+
+    color: #f7f7f7;
+}
+
+.jumbotron {
+    background-image: url("/Users/alexhatheway/Desktop/DataViz/Week_11_JavaScript/UFOs/static/images/tumblr_ojuid1E8xV1vl7b4bo1_1280 (1).jpeg");
+    background-size: 100% 100%;
+    text-align: center;
+}

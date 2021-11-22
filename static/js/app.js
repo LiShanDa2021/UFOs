@@ -13,9 +13,9 @@ function buildTable(data) {
         let row = tbody.append("tr");
         // loop through each field in the dataRow and add each value as a table cell (td)
         Object.values(dataRow).forEach((val) => {
-            let  cell = row.append("td");
+            let cell = row.append("td");
             cell.text(val);
-        }
+            }
         );
     });
 }
@@ -34,4 +34,6 @@ function handleClick() {
     buildTable(filteredData);
 };
 
-d3.selectAll("#filter-btn").on("click", handleClick)
+d3.selectAll("#filter-btn").on("click", handleClick);
+
+buildTable(tableData);
