@@ -7,7 +7,15 @@ A UFO enthusiast gave me the task of creating a webpage to display data from UFO
 
 ## Results
 
-To use the website, the user can simply view the table as it is or they can use the filter bar on the left side of the screen. They may choose to use all of the filters, none of the filters, or any number in between. When the user enters data in one of the fields and then clicks outside of the field, they will see the table update to match their criteria.
+To use the website, the user can simply view the table as it is or they can use the filter bar on the left side of the screen. They may choose to use all of the filters, none of the filters, or any number in between. When the user enters data in one of the fields and then clicks outside of the field, they will see the table update to match their criteria. Images below for reference.
+
+The original table.
+
+![original table](https://github.com/LiShanDa2021/UFOs/blob/main/static/images/default%20table.png?raw=true)
+
+The table filtered by state.
+
+![filtered table](https://github.com/LiShanDa2021/UFOs/blob/main/static/images/after%20filtering.png?raw=true)
 
 ## Summary
 
